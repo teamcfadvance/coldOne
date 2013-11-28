@@ -1,0 +1,1734 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"brewer",
+				"breweriesAPI"
+			],
+			[
+				"cfhttp",
+				"cfhttpparam	Tag (cmfl)"
+			],
+			[
+				"typ",
+				"type=\"numeric\"	type"
+			],
+			[
+				"method",
+				"method=\"get\"	method"
+			],
+			[
+				"check",
+				"checkedIfHotelAssigned"
+			],
+			[
+				"valid",
+				"validateEndtDateIsOnOrAfterStartDate"
+			],
+			[
+				"startyear",
+				"startyeargenerateselect"
+			],
+			[
+				"monthYear",
+				"monthYearGenerateForm"
+			],
+			[
+				"cfs",
+				"cfsqltype=\"cf_sql_integer\"	cfsqltype"
+			],
+			[
+				"del",
+				"deleteExisting"
+			],
+			[
+				"cfquer",
+				"cfqueryparam	Tag (cmfl)"
+			],
+			[
+				"getSEgment",
+				"getSegmentIdList"
+			],
+			[
+				"segmentID",
+				"segmentIdList"
+			],
+			[
+				"budget",
+				"budgetRecord"
+			],
+			[
+				"requ",
+				"required=\"true\"	required"
+			],
+			[
+				"for",
+				"format=\"text\"	format"
+			],
+			[
+				"requi",
+				"required=\"true\"	required"
+			],
+			[
+				"req",
+				"required=\"true\"	required"
+			],
+			[
+				"mainfore",
+				"mainforecastsGATEWAY"
+			],
+			[
+				"budg",
+				"budgetRecord"
+			],
+			[
+				"mainFore",
+				"mainforecastsStruct"
+			],
+			[
+				"gener",
+				"generateZeroFilledBudget"
+			],
+			[
+				"oupt",
+				"output=\"filename\"	output"
+			],
+			[
+				"commitFore",
+				"commitForecastByDateRange"
+			],
+			[
+				"cf_sql_",
+				"cf_sql_date"
+			],
+			[
+				"AR",
+				"ARetail"
+			],
+			[
+				"ARe",
+				"ARetailRms"
+			],
+			[
+				"AGr",
+				"AGroupRms"
+			],
+			[
+				"listFind",
+				"listFindNoCase	fn. (cfscript)"
+			],
+			[
+				"ListFindNoC",
+				"ListFindNoCase"
+			],
+			[
+				"STLYGro",
+				"STLYGroupRms"
+			],
+			[
+				"table",
+				"tablestyle1"
+			],
+			[
+				"refr",
+				"refreshData"
+			],
+			[
+				"Ser",
+				"serializeJSON	fn. (cfscript)"
+			],
+			[
+				"refere",
+				"referenceDOW"
+			],
+			[
+				"cf_sql",
+				"cf_sql_integer"
+			],
+			[
+				"Month",
+				"MonthShift"
+			],
+			[
+				"enter",
+				"enterRoomsAndRevenue"
+			],
+			[
+				"perD",
+				"perDateTotalsAllSegments"
+			],
+			[
+				"oup",
+				"output=\"false\"	output"
+			],
+			[
+				"output",
+				"output=\"false\"	output"
+			],
+			[
+				"ret",
+				"returntype=\"guid\"	returntype"
+			],
+			[
+				"type",
+				"type=\"Application\"	type"
+			],
+			[
+				"f",
+				"filename	@filename"
+			],
+			[
+				"durat",
+				"durationValue"
+			],
+			[
+				"outpu",
+				"output=\"filename\"	output"
+			],
+			[
+				"required",
+				"required=\"true\"	required"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"border-bo",
+				"border-bottom-style"
+			],
+			[
+				"colum",
+				"columnDates"
+			],
+			[
+				"paid",
+				"paidOccSumOfAverages"
+			],
+			[
+				"getDayArray",
+				"getDayArrayByDateRange"
+			],
+			[
+				"segmentTy",
+				"segmentTypeList"
+			],
+			[
+				"Mi",
+				"mid	fn. (cfscript)"
+			],
+			[
+				"currentSegm",
+				"currentSegmentType"
+			],
+			[
+				"perSEg",
+				"perSegmentTypeTotals"
+			],
+			[
+				"segmentT",
+				"segmenttype"
+			],
+			[
+				"currentSeg",
+				"currentSegmentType"
+			],
+			[
+				"currentSe",
+				"currentSegmentType"
+			],
+			[
+				"fore",
+				"forecastQuery"
+			],
+			[
+				"popul",
+				"populateForecastDataTable"
+			],
+			[
+				"getFore",
+				"getForecastDataByDateRange"
+			],
+			[
+				"db",
+				"dbtype=\"query\"	dbtype"
+			],
+			[
+				"retur",
+				"returntype=\"boolean\"	returntype"
+			],
+			[
+				"access",
+				"access=\"public\"	access"
+			],
+			[
+				"out",
+				"output=\"false\"	output"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "cfc/Settings.cfc",
+			"settings":
+			{
+				"buffer_size": 272,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "cfc/Brewery.cfc",
+			"settings":
+			{
+				"buffer_size": 2452,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "examples/breweries.cfm",
+			"settings":
+			{
+				"buffer_size": 134,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "cfc/Request.cfc",
+			"settings":
+			{
+				"buffer_size": 4179,
+				"line_ending": "Windows",
+				"name": "<cfcomponent>"
+			}
+		},
+		{
+			"file": "examples/index.cfm",
+			"settings":
+			{
+				"buffer_size": 1180,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "examples/createBreweries.cfm",
+			"settings":
+			{
+				"buffer_size": 815,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 990,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "examples/addBeer.cfm",
+			"settings":
+			{
+				"buffer_size": 2206,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "cfc/Beer.cfc",
+			"settings":
+			{
+				"buffer_size": 1545,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "examples/deleteBeer.cfm",
+			"settings":
+			{
+				"buffer_size": 144,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 2654,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "component extends=\"mxunit.framework.TestCase\" {\n	public void function setUp() {\n		variables.api = new ColdOne.cfc.Beer();\n	}\n\n	public void function testNothing() {\n		assertTrue( 'yes' );\n	}\n\n	public void function testCreate() {\n		variables.api.\n	}\n}",
+			"file": "tests/BeerTest.cfc",
+			"file_size": 199,
+			"file_write_time": 130299187198758283,
+			"settings":
+			{
+				"buffer_size": 249,
+				"line_ending": "Windows",
+				"name": "component extends=\"mxunit.framework.TestCase\" {"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				":",
+				":w - Save"
+			],
+			[
+				"snip",
+				"Snippet: htmltmpl"
+			],
+			[
+				"git",
+				"Git: Pull"
+			],
+			[
+				"close all",
+				"File: Close All"
+			],
+			[
+				"wrap",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"cflib",
+				"ColdFusion: Insert CFlib UDF"
+			],
+			[
+				":we",
+				":w - Save"
+			],
+			[
+				"snipp pc",
+				"Snippet: pctemplate"
+			],
+			[
+				"install pac",
+				"Package Control: Install Package"
+			],
+			[
+				"installp",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"rem pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"list pac",
+				"Package Control: List Packages"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"package remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack list",
+				"Package Control: List Packages"
+			],
+			[
+				":ev",
+				":e - Revert"
+			],
+			[
+				":e",
+				":$ - EOF"
+			],
+			[
+				":0",
+				":0 - BOF"
+			],
+			[
+				"file rever",
+				"File: Revert"
+			],
+			[
+				"rever",
+				"File: Revert"
+			],
+			[
+				"git rest",
+				"Git: Reset (unstage) Current File"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git: add",
+				"Git: Add Current File"
+			],
+			[
+				"git res",
+				"Git: Reset (unstage) Current File"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"pack disc",
+				"Package Control: Discover Packages"
+			],
+			[
+				":q",
+				"Set Syntax: SQL"
+			],
+			[
+				":s",
+				":w - Save"
+			],
+			[
+				"book",
+				"Bookmarks: Toggle"
+			],
+			[
+				"package disc",
+				"Package Control: Discover Packages"
+			],
+			[
+				"paca con upg c",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"con li",
+				"Package Control: List Packages"
+			],
+			[
+				"packag con lis",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: upd",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"",
+				":w - Save"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				":r",
+				":e - Revert"
+			],
+			[
+				"instll",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/sstone/Documents/GitHub/ColdOne/ColdOne.cfc",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/sftp-config.json",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/budget/print/handler.cfm",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/budget/applyforecast.cfm",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/forecast_module/source/src/com/revenuestar/forecastgrid/controller/ForecastGridController.as",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/cfc/data/tempforecastsService.cfc",
+		"/C/s/d/Dropbox/$/etc/certs/openssh/privatekeys/Amazon-EC2-Primary.pem",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/hotels/edit.cfm",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/users/edit.cfm",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/cfc/orm/AppUsers.cfc",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/test/cftest.cfm",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/test/test.cfm",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/cfc/util/timezone.cfc",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/Application.cfc",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/login/login.cfm",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/budget/index.cfm",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/cfc/data/hotelsGateway.cfc",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/cfc/orm/Account.cfc",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/cfc/orm/AccountService.cfc",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/test/appStop.cfm",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/home/index.cfm",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/segments.cfm",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/users/index.cfm",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/cfc/data/revenuestarService.cfc",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/test/template.cfm",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/cfc/data/appusers.cfc",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/cfc/orm/BaseService.cfc",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/cfc/orm/AppUsersService.cfc",
+		"/C/Users/sstone/AppData/Roaming/Sublime Text 2/Packages/User/snippets/cfdumpfile.sublime-snippet",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/budget/generate/BudgetGenerator.cfc",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/budget/generate/handler.cfm",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/cfc/data/mainforecastsService.cfc",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/cfc/data/mainforecastsDAO.cfc",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/test/test2.cfm",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/cfc/data/mainforecastsGateway.cfc",
+		"/C/Users/sstone/AppData/Roaming/Sublime Text 2/Packages/User/snippets/cfdump.sublime-snippet",
+		"/C/Users/sstone/AppData/Roaming/Sublime Text 2/Packages/User/snippets/cfappserv.sublime-snippet",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/index.cfm",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/budget/forecast/handler.cfm",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/cfc/orm/HotelsService.cfc",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/cfc/data/mainforecasts.cfc",
+		"/C/Users/sstone/AppData/Roaming/Sublime Text 2/Packages/User/snippets/cftemplate.sublime-snippet",
+		"/C/Users/sstone/AppData/Roaming/Sublime Text 2/Packages/User/snippets/jsretdef.sublime-snippet",
+		"/C/Users/sstone/AppData/Roaming/Sublime Text 2/Packages/User/snippets/pctemplate.sublime-snippet",
+		"/C/Users/sstone/AppData/Roaming/Sublime Text 2/Packages/User/snippets/html.sublime-snippet",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/dates/index.cfm",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/dates/enterRoomsAndRevenue.cfm",
+		"/C/Users/sstone/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/segments/handler.cfm",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/budget/deleteHotelData.cfm",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/dates/my.sql",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/applyforecast.cfm",
+		"/C/Users/sstone/AppData/Roaming/Sublime Text 2/Packages/Vintage Numbers/README.md",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/includes/header.cfm",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/styles.css",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/hotels/index.cfm",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/css/custom-theme/jquery-ui-1.8.11.custom.css",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/dates/my2.sql",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/dates/test.cfm",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/dates/dataentryform.cfm",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/js/jquery-1.5.1.min.js",
+		"/C/Users/sstone/AppData/Roaming/Sublime Text 2/Packages/User/snippets/cflooparray.sublime-snippet",
+		"/C/Users/sstone/AppData/Roaming/Sublime Text 2/Packages/User/snippets/cfsnip.sublime-snippet",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/lib/udf/getNearestDOWPreviousYear.cfm",
+		"/C/Users/sstone/AppData/Roaming/Sublime Text 2/Packages/User/snippets/cfarg.sublime-snippet",
+		"/C/Users/sstone/AppData/Roaming/Sublime Text 2/Packages/User/snippets/cffunc.sublime-snippet",
+		"/C/Users/sstone/AppData/Roaming/Sublime Text 2/Packages/User/snippets/cfdebuglog.sublime-snippet",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/cfc/orm/RoomsAndRevenueService.cfc",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/cfc/orm/RoomsAndRevenue.cfc",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/cfc/orm/Budget.cfc",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/budget/print/type5PDFReport.cfm",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/dates/edit2.cfm",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/dates/edit3.cfm",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/includes/footer.cfm",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/dates/enterRoomsAndRevenue2.cfm",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/.st2/RevSTAR.sublime-project",
+		"/C/Users/sstone/AppData/Roaming/Sublime Text 2/Packages/User/Distraction Free.sublime-settings",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/budget/print/type1PDFReport.cfm",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/budget/print/type1ExcelReport.cfm",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/budget/print/type1MultiTabReport.cfm",
+		"/C/s/tmp/apex.log",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/cfc/data/tempforecastsGateway.cfc",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/budget/import/ActualRevenueImporter.cfc",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/budget/print/testExcel.cfm",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/budget/print/linkTest.cfm",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/budget/print/reportDataManager.cfc",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/budget/print/exportExcel.cfc",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/cfc/data/segmentsGateway.cfc",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/budget/print/reportUtil.cfc",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/budget/print/download.cfm",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/budget/print/type2PDFReport.cfm",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/budget/print/fnbExcelReport.cfm",
+		"/C/Users/sstone/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/budget/print/handler_dump.cfm",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/justatest.txt",
+		"/C/Users/sstone/AppData/Roaming/Sublime Text 2/Packages/CommandOnSave/Base File.sublime-settings",
+		"/C/Users/sstone/Documents/GitHub/RevSTAR/.st2/synconsave.bat",
+		"/C/s/var/workspace.sh/revenuestar/budget/print/download.cfm",
+		"/C/s/var/workspace.sh/revenuestar/budget/index.cfm",
+		"/C/s/var/workspace.sh/revenuestar/budget/print/handler.cfm",
+		"/C/s/var/workspace.sh/revenuestar/budget/print/exportExcel.cfc",
+		"/C/s/var/workspace.sh/revenuestar/budget/print/reportDataManager.cfc",
+		"/C/s/var/workspace.sh/revenuestar/budget/print/type1PDFReport.cfm",
+		"/C/s/var/workspace.sh/revenuestar/segments/handler.cfm",
+		"/C/s/var/workspace.sh/revenuestar/cfc/data/hotelsDAO.cfc",
+		"/C/s/bin/tomcat/cfroots/cf10iz/revenuestar/budget/print/displayPDFReport.cfm",
+		"/C/s/var/workspace.sh/revenuestar/budget/print/test.cfm",
+		"/C/s/var/workspace.sh/revenuestar/login/login.cfm",
+		"/C/s/var/workspace.sh/revenuestar/budget/modifyforecast/config.xml",
+		"/C/s/var/workspace.sh/revenuestar/budget/print/exportPDF.cfc",
+		"/C/s/var/workspace.sh/revenuestar/cfc/data/segmentsGateway.cfc",
+		"/C/s/var/workspace.sh/revenuestar/cfc/data/mainforecastsGateway.cfc",
+		"/C/s/var/workspace.sh/revenuestar/cfc/data/mainforecastsService.cfc",
+		"/C/s/var/workspace.sh/revenuestar/budget/modifyforecast/ForecastModule.swf",
+		"/C/s/var/workspace.sh/revenuestar/.st2/synconsave.bat",
+		"/C/s/var/workspace.sh/revenuestar/web.config",
+		"/C/s/var/workspace.sh/revenuestar/index.cfm",
+		"/C/s/var/workspace.sh/revenuestar/revenuestar.sublime-project",
+		"/C/Users/sstone/AppData/Roaming/Sublime Text 2/Packages/User/Package Control.sublime-settings",
+		"/C/Users/sstone/AppData/Roaming/Sublime Text 2/Packages/User/SFTP.sublime-settings",
+		"/C/Users/sstone/AppData/Roaming/Sublime Text 2/Packages/User/SVN.sublime-settings",
+		"/C/s/tmp/acl_out",
+		"/C/s/tmp/acl_out2",
+		"/C/s/var/workspace.sh/todomvc/architecture-examples/backbone/js/todos.js",
+		"/C/s/var/workspace.sh/fluent12/bookmarklets.htm",
+		"/C/s/d/Dropbox/etc/cygwin/$sasreadme (onezero's conflicted copy 2012-04-14).txt",
+		"/C/users/sstone/appdata/local/temp/sublime-sftp-browse-1337700689/cftest/home/sstone/workspace.sh/siteutil-trunk/pcshare/index.php",
+		"/C/Users/sstone/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\Users\\sstone\\Documents\\GitHub\\RevSTAR\\forecast_module\\source",
+			"C:\\Users\\sstone\\Documents\\GitHub\\RevSTAR,-*.sublime-workspace",
+			"C:\\Users\\sstone\\Documents\\GitHub\\RevSTAR",
+			"",
+			"C:\\Users\\sstone\\Documents\\GitHub\\RevSTAR\\budget\\print",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"all",
+			"beer",
+			"beers",
+			"buildquer",
+			"buildJSON",
+			"65",
+			"options",
+			"	<!--- if user doesn't have any links to a hotel, check the AssignedHotelID field on the user record iteself --->\n	<cfif ArrayIsEmpty(userHotels) AND \n\n	<cfloop array=\"#userHotels#\" index=\"local.userHotel\">\n		<!--- local.userHotel is an element of userHotels --->\n		<cfif local.userHotel.getHotelid() EQ arguments.hotel.getHotelid()>\n			<cfreturn 'checked=\"checked\"' />\n		</cfif>	\n	</cfloop>",
+			"hotel",
+			"dst",
+			"tz",
+			"timezone",
+			"clientTZ",
+			"dump",
+			"[^o]createVersion",
+			"[^_]createVersion",
+			"url.date",
+			"now()",
+			"otelid",
+			"workingHotel",
+			"myhotel",
+			"assignedhotel",
+			"WorkingHotelID",
+			"myhotel",
+			"WOrkingHotel",
+			"session.forecastModule",
+			"getappinitdata",
+			"assignedhotel",
+			"appusers",
+			"appusersDAO",
+			"revenuestarService",
+			"appusersGateway",
+			"getassigned",
+			"segments.cfm",
+			"getHotleIdList",
+			"getassigned",
+			"appusers",
+			"accounts",
+			"access=\"remote\"",
+			"AppUsers",
+			"getassignedhotelid",
+			"userinrole",
+			"<!---",
+			"session",
+			"AssignedHotel",
+			"output=\"C",
+			"generate",
+			"startyear",
+			"endyeargenerateselect",
+			"startyeargenerateselect",
+			"generate_year",
+			"generate",
+			"year",
+			"/year",
+			"generate",
+			"month",
+			"height",
+			"overwritt",
+			"startmonth",
+			"startmonthgenerateselect",
+			"yearGenerateForm",
+			"generateFo",
+			"monthYearGenerateForm",
+			"yearsel",
+			"public",
+			"access=\"p",
+			"saveB",
+			"delete",
+			"getSeg",
+			"getSegmentId",
+			"getSegmentIDList",
+			"cfdump",
+			"cflog",
+			"TODO",
+			"data",
+			"result",
+			"generate",
+			"\"",
+			"gen",
+			"processBudgetGeneration",
+			"-	",
+			"copyRecordFromSource",
+			"year",
+			"a_rooms",
+			"Val",
+			"segmentid",
+			"getSo",
+			"mainforecastSS",
+			"copyLY",
+			"getTotalRoomsAndRevenue",
+			"Struct",
+			"date",
+			"processBudgetGeneration",
+			"endDate",
+			"tempforecastsService",
+			"segmentsService",
+			"Segment",
+			"egment",
+			"segments",
+			"entitysave",
+			"create",
+			"getSegmentIDList",
+			"gen",
+			"EntityNew",
+			"entitynew",
+			"segmentid",
+			"result",
+			"generate",
+			"expandedQuery",
+			"el.entrydate",
+			"el",
+			"el.entrydate ",
+			"datesQuery",
+			"zeroQuery",
+			"segmentID",
+			"curDate",
+			"\\$",
+			"$",
+			"commitForecast",
+			"startDate",
+			"commitdate",
+			"updateTi",
+			"commit",
+			"startDate",
+			"year",
+			">$",
+			"url.",
+			"year"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"brewery",
+			"breweries",
+			"Account",
+			"access=\"public\"",
+			"Accounts",
+			"endyear",
+			"'",
+			"budgetGenerator",
+			"	",
+			"Mainforecast",
+			"mainforecasts",
+			"shellQuery",
+			"/>",
+			"URL.",
+			"",
+			"'",
+			"",
+			"dataRefresh.",
+			"MELY",
+			" =",
+			" />",
+			"<cfset form",
+			" = STLY[1].getARetailRms() /",
+			" = STLY[1].getARetailRms()",
+			"set ",
+			"type5",
+			"monthtype3select",
+			"monthtype2select",
+			"quartertype2select",
+			"'",
+			"type5",
+			"format5",
+			"type5",
+			"Serial",
+			"arguments.excelSheet",
+			"'",
+			"local.totals",
+			"totals.listRows",
+			"totals.revenue",
+			"totals.rooms",
+			"excelColumnNumtoColumnName",
+			"reportUtil.GetCellPosi",
+			"local.result",
+			"local.endDate",
+			"local.startDate",
+			"arguments.durationValue",
+			"local.reportDuration",
+			"arguments.duration",
+			"dataTbl",
+			"createType1Report",
+			"local.per",
+			"th",
+			"grandTotals",
+			"th",
+			"detail_cell",
+			"row_label",
+			"column_label",
+			"segmentRooms",
+			"local.tempDate",
+			"acl_out",
+			"appendTarget",
+			"selectedPhotoBaseURL"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 9,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "cfc/Settings.cfc",
+					"settings":
+					{
+						"buffer_size": 272,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								249,
+								249
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/ColdFusion/ColdFusionCFC.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "cfc/Brewery.cfc",
+					"settings":
+					{
+						"buffer_size": 2452,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								100,
+								100
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/ColdFusion/ColdFusionCFC.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "examples/breweries.cfm",
+					"settings":
+					{
+						"buffer_size": 134,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7,
+								19
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/ColdFusion/HTML+CFML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "cfc/Request.cfc",
+					"settings":
+					{
+						"buffer_size": 4179,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1353,
+								1353
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<cfcomponent>",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/ColdFusion/ColdFusionCFC.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 720.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "examples/index.cfm",
+					"settings":
+					{
+						"buffer_size": 1180,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								464,
+								464
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/ColdFusion/HTML+CFML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "examples/createBreweries.cfm",
+					"settings":
+					{
+						"buffer_size": 815,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								811,
+								811
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/ColdFusion/HTML+CFML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "README.md",
+					"settings":
+					{
+						"buffer_size": 990,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								380,
+								380
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "examples/addBeer.cfm",
+					"settings":
+					{
+						"buffer_size": 2206,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								838,
+								838
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/ColdFusion/HTML+CFML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 315.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "cfc/Beer.cfc",
+					"settings":
+					{
+						"buffer_size": 1545,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/ColdFusion/ColdFusionCFC.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "examples/deleteBeer.cfm",
+					"settings":
+					{
+						"buffer_size": 144,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": true,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/ColdFusion/HTML+CFML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": ".gitignore",
+					"settings":
+					{
+						"buffer_size": 2654,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								140,
+								140
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "tests/BeerTest.cfc",
+					"settings":
+					{
+						"buffer_size": 249,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								243,
+								243
+							]
+						],
+						"settings":
+						{
+							"auto_name": "component extends=\"mxunit.framework.TestCase\" {",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 106.0
+	},
+	"output.git":
+	{
+		"height": 100.0
+	},
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"appstop",
+				"RevSTAR/test/appStop.cfm"
+			],
+			[
+				"test/app",
+				"RevSTAR/test/appStop.cfm"
+			],
+			[
+				"hotels.cfc",
+				"RevSTAR/cfc/data/hotels.cfc"
+			],
+			[
+				"edit",
+				"RevSTAR/users/edit.cfm"
+			],
+			[
+				"hotelgatew",
+				"RevSTAR/cfc/data/hotelsGateway.cfc"
+			],
+			[
+				"appusers",
+				"RevSTAR/cfc/orm/AppUsers.cfc"
+			],
+			[
+				"tempforecastser",
+				"RevSTAR/cfc/data/tempforecastsService.cfc"
+			],
+			[
+				"foregate",
+				"RevSTAR/cfc/data/tempforecastsGateway.cfc"
+			],
+			[
+				"users/edit",
+				"RevSTAR/users/edit.cfm"
+			],
+			[
+				"edit.cfm",
+				"RevSTAR/hotels/edit.cfm"
+			],
+			[
+				"users/index.cfm",
+				"RevSTAR/users/index.cfm"
+			],
+			[
+				"appusers.cfc",
+				"RevSTAR/cfc/data/appusers.cfc"
+			],
+			[
+				"userser",
+				"RevSTAR/cfc/orm/AppUsersService.cfc"
+			],
+			[
+				"user",
+				"RevSTAR/cfc/orm/AppUsers.cfc"
+			],
+			[
+				"hotelga",
+				"RevSTAR/cfc/data/hotelsGateway.cfc"
+			],
+			[
+				"budind",
+				"RevSTAR/budget/index.cfm"
+			],
+			[
+				"login",
+				"RevSTAR/login/login.cfm"
+			],
+			[
+				"budgetg",
+				"RevSTAR/budget/generate/BudgetGenerator.cfc"
+			],
+			[
+				"budgetge",
+				"RevSTAR/budget/generate/BudgetGenerator.cfc"
+			],
+			[
+				"budget/gen",
+				"RevSTAR/budget/generate/handler.cfm"
+			],
+			[
+				"genhand",
+				"RevSTAR/budget/generate/handler.cfm"
+			],
+			[
+				"mainforecastg",
+				"RevSTAR/cfc/data/mainforecastsGateway.cfc"
+			],
+			[
+				"maingate",
+				"RevSTAR/cfc/data/mainforecastsGateway.cfc"
+			],
+			[
+				"mainfr",
+				"RevSTAR/cfc/data/mainforecastsGateway.cfc"
+			],
+			[
+				"mainforecastdao",
+				"RevSTAR/cfc/data/mainforecastsDAO.cfc"
+			],
+			[
+				"snip",
+				"User/snippets/cfappserv.sublime-snippet"
+			],
+			[
+				"budg/in",
+				"RevSTAR/budget/index.cfm"
+			],
+			[
+				"index.cfm",
+				"RevSTAR/index.cfm"
+			],
+			[
+				"budghand",
+				"RevSTAR/budget/generate/handler.cfm"
+			],
+			[
+				"budget/handl",
+				"RevSTAR/budget/print/handler.cfm"
+			],
+			[
+				"mainforecastda",
+				"RevSTAR/cfc/data/mainforecastsDAO.cfc"
+			],
+			[
+				"mainforecastser",
+				"RevSTAR/cfc/data/mainforecastsService.cfc"
+			],
+			[
+				"handl",
+				"RevSTAR/budget/generate/handler.cfm"
+			],
+			[
+				"mainforecaste",
+				"RevSTAR/cfc/data/mainforecastsGateway.cfc"
+			],
+			[
+				"handler",
+				"RevSTAR/budget/forecast/handler.cfm"
+			],
+			[
+				"forehand",
+				"RevSTAR/budget/forecast/handler.cfm"
+			],
+			[
+				"deletehotel",
+				"RevSTAR/budget/deleteHotelData.cfm"
+			],
+			[
+				"applyfore",
+				"RevSTAR/budget/applyforecast.cfm"
+			],
+			[
+				"genehand",
+				"RevSTAR/budget/generate/handler.cfm"
+			],
+			[
+				"handler.cfm",
+				"RevSTAR/segments/handler.cfm"
+			],
+			[
+				"enterr",
+				"RevSTAR/dates/enterRoomsAndRevenue.cfm"
+			],
+			[
+				"datesind",
+				"RevSTAR/dates/index.cfm"
+			],
+			[
+				"header",
+				"RevSTAR/includes/header.cfm"
+			],
+			[
+				"inchead",
+				"RevSTAR/includes/header.cfm"
+			],
+			[
+				"dates/da",
+				"RevSTAR/dates/dataentryform.cfm"
+			],
+			[
+				"test.cfm",
+				"RevSTAR/dates/test.cfm"
+			],
+			[
+				"test.",
+				"RevSTAR/dates/test.cfm"
+			],
+			[
+				"data",
+				"dates/dataentryform.cfm"
+			],
+			[
+				"dataen",
+				"dates/dataentryform.cfm"
+			],
+			[
+				"type1mult",
+				"budget/print/type1MultiTabReport.cfm"
+			],
+			[
+				"type1exce",
+				"budget/print/type1ExcelReport.cfm"
+			],
+			[
+				"multi",
+				"budget/print/type1MultiTabReport.cfm"
+			],
+			[
+				"type1mul",
+				"budget/print/type1MultiTabReport.cfm"
+			],
+			[
+				"fnbex",
+				"budget/print/fnbExcelReport.cfm"
+			],
+			[
+				"type2pdfr",
+				"budget/print/type2PDFReport.cfm"
+			],
+			[
+				"type1pdfr",
+				"budget/print/type1PDFReport.cfm"
+			],
+			[
+				"segmentsgat",
+				"cfc/data/segmentsGateway.cfc"
+			],
+			[
+				"reportdatam",
+				"budget/print/reportDataManager.cfc"
+			],
+			[
+				"type1",
+				"budget/print/type1PDFReport.cfm"
+			],
+			[
+				"mainfore",
+				"cfc/data/mainforecastsGateway.cfc"
+			],
+			[
+				"mainfo",
+				"cfc/data/mainforecasts.cfc"
+			],
+			[
+				"repor",
+				"budget/print/reportDataManager.cfc"
+			],
+			[
+				"mainforeca",
+				"cfc/data/mainforecastsGateway.cfc"
+			],
+			[
+				"reportdat",
+				"budget/print/reportDataManager.cfc"
+			],
+			[
+				"reportd",
+				"budget/print/reportDataManager.cfc"
+			],
+			[
+				"export",
+				"budget/print/exportExcel.cfc"
+			],
+			[
+				"budgprinhan",
+				"budget/print/handler.cfm"
+			],
+			[
+				"budget/inde",
+				"budget/index.cfm"
+			],
+			[
+				"hotelda",
+				"cfc/data/hotelsDAO.cfc"
+			],
+			[
+				"exce",
+				"budget/print/exportExcel.cfc"
+			],
+			[
+				"segmentsg",
+				"cfc/data/segmentsGateway.cfc"
+			],
+			[
+				"segmentsga",
+				"cfc/data/segmentsGateway.cfc"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"regi",
+				"/C/s/var/workspace.sh/registration-trunk/.st2/registration-trunk.sublime-project"
+			],
+			[
+				"",
+				"/C/s/var/workspace.sh/registration-trunk/.st2/registration-trunk.sublime-project"
+			],
+			[
+				"revs",
+				"/C/Users/sstone/Documents/GitHub/RevSTAR/.st2/RevSTAR.sublime-project"
+			],
+			[
+				"registra",
+				"/C/s/var/workspace.sh/registration-trunk/.st2/registration-trunk.sublime-project"
+			],
+			[
+				"regis",
+				"/C/s/var/workspace.sh/registration-trunk/.st2/registration-trunk.sublime-project"
+			],
+			[
+				"this",
+				"/C/Users/sstone/Documents/GitHub/ThisDevelopersLife-Transcripts/ThisDevlopersLife-Transcripts.sublime-project"
+			],
+			[
+				"regsi",
+				"/C/s/var/workspace.sh/registration-trunk/.st2/registration-trunk.sublime-project"
+			],
+			[
+				"reg",
+				"/C/s/var/workspace.sh/registration-trunk/.st2/registration-trunk.sublime-project"
+			],
+			[
+				"r",
+				"/C/s/d/Dropbox/var/devel/sublime/onezero/registration-trunk.sublime-project"
+			],
+			[
+				"re",
+				"/C/s/d/Dropbox/var/devel/sublime/onezero/registration-trunk.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 280.0,
+	"status_bar_visible": true
+}
